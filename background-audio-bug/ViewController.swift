@@ -17,7 +17,7 @@ super.viewDidLoad()
 let html = """
 <br><br><br>
 <audio controls="controls">
-<source src="https://start-sud.ice.infomaniak.ch/start-sud-high.mp3" type="audio/mp3" />
+<source src="https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3" type="audio/mp3" />
 </audio>
 """
 webView.loadHTMLString(html, baseURL: nil)
